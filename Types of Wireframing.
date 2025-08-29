@@ -9,5 +9,25 @@ High fidelity wireframes include visual markers and branding signifiers like col
 and might even include textures and shadows. At this stage, a designer might also choose to add in images and copy. This wireframing kit 
 will get you started with all the basics you need to create great looking high fidelity wireframes.
 
+Best tool For Creating Wireframing :
+There are many tools for creating wireframe like miro, figma.
+Figma But Figma will be the recommanded tool cause it is industrially used 
 
+Benefits of Wireframing for Software Developer:
+Wireframing Serves as a guide For Software Engineers when working on the project 
+Real Life Scenario :
+A real-world scenario of wireframing preventing usability issues comes from an e-commerce startup that was designing its mobile
+shopping app. During the wireframing stage, the design team created low-fidelity sketc
+hes of the product listing and checkout flow. When these wireframes were tested with a small group of potential users,
+a critical issue was uncovered: the checkout button was placed at the very bottom of a long scrolling page. Users consistently
+missed it, leading to frustration and abandoned carts during testing.
 
+Because this issue was identified early, the team quickly revised the wireframes. They moved the checkout button into a fixed
+navigation bar at the bottom of the screen, ensuring it was always visible no matter where users were on the page. This change 
+was inexpensive at the wireframing stage, but would have been costly and time-consuming if discovered after development.
+
+The impact on the final product was significant: usability testing of the revised wireframes showed smoother task completion, 
+fewer abandoned carts, and higher satisfaction. After launch, analytics confirmed that the simplified checkout process contributed
+to increased conversion rates.
+
+In conclusion, this example highlights how wireframing serves as a low-cost, high-impact tool for identifying potential usability problems before development begins. By allowing designers, stakeholders, and users to visualize and interact with the layout early, wireframing ensures that the final product is both intuitive and user-friendly.
